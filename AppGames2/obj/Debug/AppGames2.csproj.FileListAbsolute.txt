@@ -1,0 +1,12 @@
+C:\Users\Aluno\source\repos\AppGames2\bin\Debug\DbGames.mdf
+C:\Users\Aluno\source\repos\AppGames2\bin\Debug\DbGames_log.ldf
+C:\Users\Aluno\source\repos\AppGames2\bin\Debug\AppGames2.exe.config
+C:\Users\Aluno\source\repos\AppGames2\bin\Debug\AppGames2.exe
+C:\Users\Aluno\source\repos\AppGames2\bin\Debug\AppGames2.pdb
+C:\Users\Aluno\source\repos\AppGames2\obj\Debug\AppGames2.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\AppGames2\obj\Debug\AppGames2.FrmPrincipal.resources
+C:\Users\Aluno\source\repos\AppGames2\obj\Debug\AppGames2.Properties.Resources.resources
+C:\Users\Aluno\source\repos\AppGames2\obj\Debug\AppGames2.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\AppGames2\obj\Debug\AppGames2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\AppGames2\obj\Debug\AppGames2.exe
+C:\Users\Aluno\source\repos\AppGames2\obj\Debug\AppGames2.pdb
